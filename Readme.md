@@ -15,3 +15,14 @@
 -pkg.js script "dev": "nodemon src/index.js"
 
 
+# src folder setup
+# create folder 
+- controllers
+-Db
+-middlewares
+-models
+-routes
+-utils
+
+
+
