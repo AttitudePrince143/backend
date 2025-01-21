@@ -25,4 +25,13 @@
 - utils
 
 
+# for file formatting prettier
+- npm i -D prettier
+- add .prettierrc file
+- add .prettierignore file
+
+
+
+
+
 
